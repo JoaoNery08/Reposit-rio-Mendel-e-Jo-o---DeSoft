@@ -1,1 +1,1 @@
-print('Mendel rachmann')
+print('Vai Corinthians!')
