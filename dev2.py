@@ -1,0 +1,1 @@
+print('Mendel rachmann')
